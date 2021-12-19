@@ -1,4 +1,4 @@
-# Test for non-packageDirectory metadata being deployed when using force:source:push:beta
+# Test for non-packageDirectory metadata being deployed when using force:source:beta:push
 
 To run:
 
